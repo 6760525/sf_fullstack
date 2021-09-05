@@ -1,3 +1,5 @@
+# v.1
+
 # importing libs
 import numpy as np
 from random import randint
